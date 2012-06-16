@@ -25,6 +25,31 @@ i18n['EN']['error.invalid.min'] = 'value #{value} is less than minimum value #{m
 i18n['EN']['error.invalid.max.size'] = 'value #{value} exceeds the maximum size of #{max}';
 i18n['EN']['error.invalid.min.size'] = 'value #{value} is less than the minimum size of #{min}';
 
+i18n['DE'] = {};
+i18n['DE']['label.ok'] = 'OK';
+i18n['DE']['label.now'] = 'Jetzt';
+i18n['DE']['label.today'] = 'Heute';
+i18n['DE']['label.clear'] = 'Reset';
+i18n['DE']['label.add'] = 'Hinzufügen';
+i18n['DE']['label.delete'] = 'Löschen';
+i18n['DE']['label.save'] = 'Sichern';
+i18n['DE']['label.sortAsc'] = 'Aufsteigend';
+i18n['DE']['label.sortDesc'] = 'Absteigend';
+i18n['DE']['label.selectAll'] = 'Alles';
+i18n['DE']['label.loading'] = 'Lade ...';
+i18n['DE']['message.totalDisplay'] = '<strong><span id="mtgTotal">#{total}</span></strong> Einträge gefunden';
+i18n['DE']['message.rowsDisplay'] = ', zeige <strong><span id="mtgFrom">#{from}</span></strong>&nbsp;bis&nbsp;<strong><span id="mtgTo">#{to}</span></strong>';
+i18n['DE']['message.pagePrompt'] = '<td><strong>Seite:</strong></td><td>#{input}</td><td>of&nbsp;<strong>#{pages}</strong></td>';
+i18n['DE']['message.noRecordFound'] = '<strong>Keine Einträge gefunden</strong>';
+i18n['DE']['error.required.field'] = '#{field} wird benötigt';
+i18n['DE']['error.invalid.creditCard'] = 'value #{value} ist keine valide Kreditkartennummer';
+i18n['DE']['error.invalid.range'] = 'value #{value} ist nicht im Bereich von #{from} bis #{to}';
+i18n['DE']['error.invalid.size'] = 'value #{value} ist nicht im Größenbereich zwischen #{from} und #{to}';
+i18n['DE']['error.invalid.max'] = 'value #{value} übersteigt das Maximum von #{max}';
+i18n['DE']['error.invalid.min'] = 'value #{value} unterschreitet das Minimum von #{min}';
+i18n['DE']['error.invalid.max.size'] = 'value #{value} übersteigt die maximale Größe von #{max}';
+i18n['DE']['error.invalid.min.size'] = 'value #{value} unterschreitet die minimale Größe von #{min}';
+
 i18n['ES'] = {};
 i18n['ES']['label.ok'] = 'OK';
 i18n['ES']['label.now'] = 'Ahora';
